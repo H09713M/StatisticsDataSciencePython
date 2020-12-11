@@ -7,5 +7,4 @@
 - Probability Lab.ipynb - Jupyter Notebook for Probability Lab (Week 3)
 - Hypothesis Testing Lab.ipynb - Jupyter Notebook for Hypothesis Testing Lab (Week 4)
 - Regression Analysis Lab.ipynb - Jupyter Notebook for Regression Analysis Lab (Week 5)
-- 
-- 
+- Statistics for Data Science with Python.ipynb - Jupyter Notebook for Peer-Graded Assignment
